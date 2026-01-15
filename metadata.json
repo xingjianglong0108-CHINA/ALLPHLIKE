@@ -1,0 +1,5 @@
+{
+  "name": "ALL Ph-like & IKZF1 PLUS 决策工具",
+  "description": "基于SCCCG-ALL-2023方案的儿童急性淋巴细胞白血病(ALL)基因诊断与靶向建议决策工具，支持Ph-like ALL亚型判断及IKZF1 PLUS预后评估。",
+  "requestFramePermissions": []
+}
